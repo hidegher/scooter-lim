@@ -1,0 +1,65 @@
+body{ background-image: url(sfondo.jpg);
+  background-repeat: no-repeat;
+-webkit-background-size: cover;
+  font-family: Helvetica, Arial, sans-serif
+  ;
+}
+
+
+.logo {width: 150px;
+  margin-top:100px;
+}
+
+h2 {color:#00ff00
+
+}
+
+.button{
+background-color: #00ff00;
+padding:5px;
+padding-left: 205px;
+padding-right: 205px;
+
+}
+
+.row {text-align: center;
+line-height:4px;
+
+}
+
+main{
+  width: 700px;
+  margin: auto;
+  color: white;
+  margin-top: 20px;
+
+}
+
+p {line-height : 1px;
+ font-size: small;
+ opacity: 0.8;
+
+}
+
+ .load{margin-top:20px
+ }
+
+ .stato1 { width:100%;
+   max-width:300px;
+   border-radius:5px;
+   border:10px orange solid;
+   margin-bottom:20px
+ }
+ .stato2 { width:100%;
+   max-width:500px;
+   border-radius:5px;
+   border:10px green solid;
+   margin-bottom:20px
+ }
+ .stato3 { width:100%;
+   max-width:100px;
+   border-radius:5px;
+   border:10px red solid;
+
+ }
+ 
